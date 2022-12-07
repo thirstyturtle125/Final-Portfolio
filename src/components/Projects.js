@@ -39,7 +39,7 @@ function Projects() {
               >
                 <div className="projects-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                   <div className="projects-item-caption-content text-center text-white">
-                    <i className="fas fa-plus fa-3x"></i>
+                    <i className="fas fa-arrow-up-right-from-square fa-3x"></i>
                   </div>
                 </div>
                 <img
@@ -60,7 +60,7 @@ function Projects() {
               >
                 <div className="projects-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                   <div className="projects-item-caption-content text-center text-white">
-                    <i className="fas fa-plus fa-3x"></i>
+                    <i className="fas fa-arrow-up-right-from-square fa-3x"></i>
                   </div>
                 </div>
                 <img
@@ -80,7 +80,7 @@ function Projects() {
               >
                 <div className="projects-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                   <div className="projects-item-caption-content text-center text-white">
-                    <i className="fas fa-plus fa-3x"></i>
+                    <i className="fas fa-arrow-up-right-from-square fa-3x"></i>
                   </div>
                 </div>
                 <img
