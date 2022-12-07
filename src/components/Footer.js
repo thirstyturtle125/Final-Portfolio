@@ -2,8 +2,8 @@ function Footer() {
   return (
     <footer className="footer text-center">
       <div className="container">
-        <div className="row">
-          <div className="col-lg-6 mb-5">
+        <div className="row justify-content-center">
+          <div className="col-lg-5 mb-5">
             <h4 className="text-uppercase mb-4">Mailing Address</h4>
             <p className="lead mb-0 text-center">
               69 Brown Street, Box #5555
@@ -11,7 +11,10 @@ function Footer() {
               Providence, RI, USA 02912
             </p>
           </div>
-          <div className="col-lg-6 mb-5">
+
+          <i className="fas fa-water fa-3x mt-4" style={{ width: "54px" }}></i>
+
+          <div className="col-lg-5 mb-5">
             <h4 className="text-uppercase mb-4">Social Handles</h4>
             <a
               className="btn btn-outline-light btn-social rounded-circle mx-1"

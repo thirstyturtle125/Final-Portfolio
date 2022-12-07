@@ -149,7 +149,7 @@ function Projects() {
                         target="_blank"
                         rel="noopener noreferrer"
                       >
-                        <button className="btn btn-primary">
+                        <button className="btn btn-primary btn-lg">
                           Go to Project
                         </button>
                       </a>
@@ -158,7 +158,7 @@ function Projects() {
                         target="_blank"
                         rel="noopener noreferrer"
                       >
-                        <button className="btn btn-primary">
+                        <button className="btn btn-primary btn-lg">
                           <i
                             className="fab fa-fw fa-github"
                             style={{ marginRight: "5px" }}
@@ -225,7 +225,7 @@ function Projects() {
                         target="_blank"
                         rel="noopener noreferrer"
                       >
-                        <button className="btn btn-primary">
+                        <button className="btn btn-primary btn-lg">
                           Go to Project
                         </button>
                       </a>
@@ -234,7 +234,7 @@ function Projects() {
                         target="_blank"
                         rel="noopener noreferrer"
                       >
-                        <button className="btn btn-primary">
+                        <button className="btn btn-primary btn-lg">
                           <i
                             className="fab fa-fw fa-github"
                             style={{ marginRight: "5px" }}
@@ -302,7 +302,7 @@ function Projects() {
                         target="_blank"
                         rel="noopener noreferrer"
                       >
-                        <button className="btn btn-primary">
+                        <button className="btn btn-primary btn-lg">
                           Go to Project
                         </button>
                       </a>
@@ -311,7 +311,7 @@ function Projects() {
                         target="_blank"
                         rel="noopener noreferrer"
                       >
-                        <button className="btn btn-primary">
+                        <button className="btn btn-primary btn-lg">
                           <i
                             className="fab fa-fw fa-github"
                             style={{ marginRight: "5px" }}
@@ -379,7 +379,7 @@ function Projects() {
                         target="_blank"
                         rel="noopener noreferrer"
                       >
-                        <button className="btn btn-primary">
+                        <button className="btn btn-primary btn-lg">
                           Go to Project
                         </button>
                       </a>
@@ -388,7 +388,7 @@ function Projects() {
                         target="_blank"
                         rel="noopener noreferrer"
                       >
-                        <button className="btn btn-primary">
+                        <button className="btn btn-primary btn-lg">
                           <i
                             className="fab fa-fw fa-github"
                             style={{ marginRight: "5px" }}

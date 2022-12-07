@@ -9,9 +9,9 @@ p {
   text-align: left;
 }
 .about-wave {
-  width: 30rem;
-  margin-top: 2rem;
-  margin-left: -5rem;
+  width: 28rem;
+  margin-top: 4rem;
+  margin-left: -10rem;
 }
 .page-section {
   padding: 8rem 0;
@@ -116,6 +116,7 @@ p {
   border-top: 0;
   border-radius: 0;
   border-width: 1px;
+  color: #1abc9c;
 }
 .form-floating input.form-control:focus,
 .form-floating textarea.form-control:focus {
