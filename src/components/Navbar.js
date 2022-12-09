@@ -13,7 +13,6 @@ function Navbar() {
         <button
           className="navbar-toggler text-uppercase font-weight-bold bg-primary text-white rounded"
           type="button"
-          ƒ
           data-bs-toggle="collapse"
           data-bs-target="#navbarResponsive"
           aria-controls="navbarResponsive"

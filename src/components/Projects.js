@@ -26,7 +26,7 @@ function Projects() {
                   className="img-fluid"
                   src={"./assets/img/candy.png"}
                   style={{ height: "300px" }}
-                  alt="..."
+                  alt="Development"
                 />
               </div>
             </div>
@@ -46,7 +46,7 @@ function Projects() {
                   className="img-fluid"
                   src={"./assets/img/iterative.png"}
                   style={{ height: "300px" }}
-                  alt="..."
+                  alt="Iterative Design"
                 />
               </div>
             </div>
@@ -67,7 +67,7 @@ function Projects() {
                   className="img-fluid"
                   src={"./assets/img/redesign.png"}
                   style={{ height: "300px" }}
-                  alt="..."
+                  alt="Responsive Redesign"
                 />
               </div>
             </div>
@@ -87,7 +87,7 @@ function Projects() {
                   className="img-fluid"
                   src={"./assets/img/persona.png"}
                   style={{ height: "300px" }}
-                  alt="..."
+                  alt="Personas & Storyboarding"
                 />
               </div>
             </div>
@@ -126,7 +126,7 @@ function Projects() {
                       className="img-fluid rounded mb-4"
                       src={"./assets/img/dev.png"}
                       style={{ height: "250px" }}
-                      alt="..."
+                      alt="Screenshot of Development Project"
                     />
                     <p>
                       In this project, I had a chance to develop an interactive
@@ -205,7 +205,7 @@ function Projects() {
                       className="img-fluid rounded mb-4"
                       src={"./assets/img/slai.png"}
                       style={{ height: "250px" }}
-                      alt="..."
+                      alt="Screenshot of Iterative Design Project"
                     />
                     <p>
                       For this project my team observed Slai, a startup
@@ -281,7 +281,7 @@ function Projects() {
                       className="img-fluid rounded mb-4"
                       src={"./assets/img/berk.png"}
                       style={{ height: "250px" }}
-                      alt="..."
+                      alt="Screenshot of Responsive Redesign Project"
                     />
                     <p>
                       In this project, I took a look at the Berkshire Hathaway
@@ -358,7 +358,7 @@ function Projects() {
                       className="img-fluid rounded mb-4"
                       src={"./assets/img/personas.png"}
                       style={{ height: "250px" }}
-                      alt="..."
+                      alt="Screenshot of Personas & Storyboarding Project"
                     />
                     <p>
                       I observed and interviewed people regarding the Amazon

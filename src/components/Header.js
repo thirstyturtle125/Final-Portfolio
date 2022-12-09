@@ -5,7 +5,7 @@ function Header() {
         <img
           class="header-avatar mb-5"
           src="./assets/img/avatar.png"
-          alt="..."
+          alt="Turtle Avatar"
         />
         <h1 class="header-heading text-uppercase mb-0">thirstyturtle125</h1>
         <div class="divider-custom divider-light">
